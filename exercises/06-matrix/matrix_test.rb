@@ -38,4 +38,6 @@ class MatrixTest < Minitest::Test
     matrix = Matrix.new("1 2\n10 20")
     assert_equal [1, 2], matrix.rows[0]
   end
+
+  # Add tests here!
 end
