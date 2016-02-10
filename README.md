@@ -7,7 +7,7 @@ Welcome to the Hashrocket Code Platoon Workshop repository.
 
 ### Installation
 
-Install Git on your machine, then:
+Install Git on your machine, then run the following in a terminal window:
 
 ```
 git clone https://github.com/hashrocket/code-platoon-workshop
@@ -15,6 +15,22 @@ cd code-platoon-workshop/exercises
 ```
 
 From here, open the first exercise in your text editor of choice.
+
+### Running Tests
+
+This test suite depends on a few gems to run. To install them on your machine,
+run the following from the terminal:
+
+```
+gem install bundler
+bundle install
+```
+
+Next, run any test like so:
+
+```
+ruby path/to/my_test.rb
+```
 
 ### Agenda
 
