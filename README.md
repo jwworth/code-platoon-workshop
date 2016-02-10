@@ -32,6 +32,12 @@ Next, run any test like so:
 ruby path/to/my_test.rb
 ```
 
+Or run all the tests with:
+
+```
+rake
+```
+
 ### Agenda
 
 *Morning Session:*
