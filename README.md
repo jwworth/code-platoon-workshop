@@ -11,7 +11,7 @@ Install Git on your machine, then run the following in a terminal window:
 
 ```
 git clone https://github.com/hashrocket/code-platoon-workshop
-cd code-platoon-workshop/exercises
+cd code-platoon-workshop
 ```
 
 From here, open the first exercise in your text editor of choice.
@@ -42,14 +42,14 @@ rake
 
 *Morning Session:*
 
-* 09:00—10:00 AM: Introduction to TDD
+* 09:00—10:00 AM: Intro to TDD
 * 10:00—11:30 AM: 'Raindrops' exercise
 * 11:30—12:00 PM: Discussion and Q & A
 
 *(Lunch)*
 
 *Afternoon Session:*
-* 1:00-2:00 PM: Introduction to Pair Programming
+* 1:00-2:00 PM: Intro to Pair Programming
 * 2:00—3:00 PM: 'Phone Number' Exercise (w/ pair programming)
 * 3:00—4:30 PM: 'Grade School Exercise (w/ pair programming)
 * 4:30—5:00 PM: Discussion and Q & A
