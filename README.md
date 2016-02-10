@@ -3,7 +3,7 @@
 Welcome to the Hashrocket Code Platoon Workshop repository.
 
 > The purpose of this repository is to support Hashrocket's workshop at Code
-> Platoon, covering Test Driven Development and pair programing.
+> Platoon, covering Test Driven Development and pair programming.
 
 ### Installation
 
