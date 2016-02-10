@@ -10,7 +10,7 @@ Welcome to the Hashrocket Code Platoon Workshop repository.
 Install Git on your machine, then run the following in a terminal window:
 
 ```
-git clone https://github.com/hashrocket/code-platoon-workshop
+git clone https://github.com/jwworth/code-platoon-workshop
 cd code-platoon-workshop
 ```
 
