@@ -10,8 +10,8 @@ Welcome to the Hashrocket Code Platoon Workshop repository.
 Install Git on your machine, then run the following in a terminal window:
 
 ```
-git clone https://github.com/jwworth/code-platoon-workshop
-cd code-platoon-workshop
+$ git clone https://github.com/jwworth/code-platoon-workshop
+$ cd code-platoon-workshop
 ```
 
 From here, open the first exercise in your text editor of choice.
@@ -22,20 +22,20 @@ This test suite depends on a few gems to run. To install them on your machine,
 run the following from the terminal:
 
 ```
-gem install bundler
-bundle install
+$ gem install bundler
+$ bundle install
 ```
 
 Next, run any test like so:
 
 ```
-ruby path/to/my_test.rb
+$ ruby path/to/my_test.rb
 ```
 
 Or run all the tests with:
 
 ```
-rake
+$ rake
 ```
 
 ### Agenda
@@ -51,7 +51,7 @@ rake
 *Afternoon Session:*
 * 1:00-2:00 PM: Intro to Pair Programming
 * 2:00—3:00 PM: 'Phone Number' Exercise (w/ pair programming)
-* 3:00—4:30 PM: 'Grade School Exercise (w/ pair programming)
+* 3:00—4:30 PM: 'Grade School' Exercise (w/ pair programming)
 * 4:30—5:00 PM: Discussion and Q & A
 
 ### Resources
@@ -61,5 +61,4 @@ an awesome project you should definitely check out.
 
 ### License
 
-This repository is released under the [MIT
-License](http://www.opensource.org/licenses/MIT).
+This repository is released under the [MIT License](http://www.opensource.org/licenses/MIT).
