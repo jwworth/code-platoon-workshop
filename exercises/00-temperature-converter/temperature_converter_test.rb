@@ -20,7 +20,7 @@ require_relative 'temperature_converter'
 
 class TemperatureConverterTest < Minitest::Test
   def test_convert_celsius_to_farenheit
-    assert_equal 62, TemperatureConverter.celsius_to_farenheit(30)
+    assert_equal 86.0, TemperatureConverter.celsius_to_farenheit(30.0)
   end
 
   # Add tests here!
