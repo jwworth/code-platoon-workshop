@@ -42,15 +42,16 @@ $ rake
 
 *Morning Session:*
 
-* 09:00—10:00 AM: Intro to TDD
-* 10:00—11:30 AM: 'Raindrops' exercise
+* 09:00—09:30 AM: Intro to TDD
+* 09:30—10:30 AM: Temperature Converter demo
+* 10:30—11:30 AM: 'Raindrops' exercise
 * 11:30—12:00 PM: Discussion and Q & A
 
 *(Lunch)*
 
 *Afternoon Session:*
-* 1:00-2:00 PM: Intro to Pair Programming
-* 2:00—3:00 PM: 'Phone Number' Exercise (w/ pair programming)
+* 1:00-1:30 PM: Intro to Pair Programming
+* 1:30—3:00 PM: 'Phone Number' Exercise (w/ pair programming)
 * 3:00—4:30 PM: 'Grade School' Exercise (w/ pair programming)
 * 4:30—5:00 PM: Discussion and Q & A
 
