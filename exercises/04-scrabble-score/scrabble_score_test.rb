@@ -40,6 +40,7 @@ require_relative 'scrabble_score'
 
 class ScrabbleTest < Minitest::Test
   def test_empty_word_scores_zero
+    skip
     assert_equal 0, Scrabble.new('').score
   end
 

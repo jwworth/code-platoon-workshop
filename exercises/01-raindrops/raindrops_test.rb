@@ -23,6 +23,7 @@ require_relative 'raindrops'
 
 class RaindropsTest < Minitest::Test
   def test_1
+    skip
     assert_equal '1', Raindrops.convert(1)
   end
 

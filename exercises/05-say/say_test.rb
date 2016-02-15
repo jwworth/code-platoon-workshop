@@ -27,6 +27,7 @@ require_relative 'say'
 
 class SayTest < Minitest::Test
   def test_0
+    skip
     assert_equal 'zero', Say.new(0).in_english
   end
 

@@ -32,10 +32,16 @@ Next, run any test like so:
 $ ruby path/to/my_test.rb
 ```
 
-Or run all the tests with:
+Run all the tests with:
 
 ```
 $ rake
+```
+
+Or run all the tests with [mrspec](https://github.com/JoshCheek/mrspec):
+
+```
+$ mrspec .
 ```
 
 ### Agenda

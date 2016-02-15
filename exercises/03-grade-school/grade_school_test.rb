@@ -27,10 +27,12 @@ class SchoolTest < Minitest::Test
   attr_reader :school
 
   def setup
+    skip
     @school = School.new
   end
 
   def test_an_empty_school
+    skip
     assert_equal({}, school.to_h)
   end
 
