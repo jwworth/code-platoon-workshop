@@ -49,7 +49,7 @@ $ mrspec .
 *Morning Session:*
 
 * 09:00—09:30 AM: Intro to TDD
-* 09:30—10:30 AM: Temperature Converter demo
+* 09:30—10:30 AM: 'Temperature Converter' demo
 * *10 Minute Break*
 * 10:40—11:30 AM: 'Raindrops' exercise
 * 11:30—12:00 PM: Discussion and Q & A
