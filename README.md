@@ -63,7 +63,7 @@ $ mrspec .
 
 ### Resources
 
-The exercises here are borrowed from [Exercism.io](http://exercism.io/). It's
+Some of the exercises here are borrowed from [Exercism.io](http://exercism.io/). It's
 an awesome project you should definitely check out.
 
 ### License
