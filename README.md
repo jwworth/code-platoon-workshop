@@ -50,7 +50,8 @@ $ mrspec .
 
 * 09:00—09:30 AM: Intro to TDD
 * 09:30—10:30 AM: Temperature Converter demo
-* 10:30—11:30 AM: 'Raindrops' exercise
+* *10 Minute Break*
+* 10:40—11:30 AM: 'Raindrops' exercise
 * 11:30—12:00 PM: Discussion and Q & A
 
 *(Lunch)*
@@ -58,7 +59,8 @@ $ mrspec .
 *Afternoon Session:*
 * 1:00-1:30 PM: Intro to Pair Programming
 * 1:30—3:00 PM: 'Phone Number' Exercise (w/ pair programming)
-* 3:00—4:30 PM: 'Grade School' Exercise (w/ pair programming)
+* *10 Minute Break*
+* 3:10—4:30 PM: 'Grade School' Exercise (w/ pair programming)
 * 4:30—5:00 PM: Discussion and Q & A
 
 ### Resources
