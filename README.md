@@ -58,7 +58,7 @@ $ mrspec .
 *(Lunch)*
 
 *Afternoon Session:*
-* 1:00-1:30 PM: Intro to Pair Programming
+* 1:00—1:30 PM: Intro to Pair Programming
 * 1:30—3:00 PM: 'Phone Number' Exercise (w/ pair programming)
 * *10 Minute Break*
 * 3:10—4:30 PM: 'Grade School' Exercise (w/ pair programming)
