@@ -17,6 +17,10 @@
 # * The prime factors of 34 are 2 and 17.  Raindrop-speak doesn't know what to
 # make of that, so it just goes with the straightforward "34".
 
+# Extensions: Add a REPL-style user interface that acceps a max and min value
+# and returns the 'Raindrops' output for that range, or accepts a single number
+# and returns the 'Raindrops' value for that number.
+
 require 'minitest/autorun'
 require 'minitest/rg'
 require_relative 'raindrops'
