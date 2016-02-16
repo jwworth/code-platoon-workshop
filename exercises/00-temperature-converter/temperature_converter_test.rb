@@ -6,6 +6,13 @@
 # from Celsius:                                 to Celsius:
 # Fahrenheit[°F] = [°C] × 9⁄5 + 32              [°C] = ([°F] − 32) × 5⁄9
 # Kelvin[K]      = [°C] + 273.15                [°C] = [K] − 273.15
+
+# Extension 1: Include other measurement types, such as feet to meters
+# or hours to days.
+
+# Extension 2: support these less-common scales:
+
+# from Celsius:                                 to Celsius:
 # Rankine[°R]    = ([°C] + 273.15) × 9⁄50       [°C] = ([°R] − 491.67) × 5⁄9
 # Delisle[°De]   = (100 − [°C]) × 3⁄273         [°C] = 100 − [°De] × 2⁄3
 # Newton[°N]     = [°C] × 33⁄100                [°C] = [°N] × 100⁄33
