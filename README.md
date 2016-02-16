@@ -48,11 +48,12 @@ $ mrspec .
 
 *Morning Session:*
 
-* 09:00—09:30 AM: Intro to TDD
+* 09:00—09:30 AM: Intro to Testing
 * 09:30—10:30 AM: 'Temperature Converter' demo
 * *10 Minute Break*
-* 10:40—11:30 AM: 'Raindrops' exercise
-* 11:30—12:00 PM: Discussion and Q & A
+* 10:40—11:00 AM: Intro to TDD
+* 11:00—11:45 AM: 'Raindrops' & 'Scrabble Score' exercises
+* 11:45—12:00 PM: Discussion and Q & A
 
 *(Lunch)*
 
