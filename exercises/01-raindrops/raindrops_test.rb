@@ -26,10 +26,25 @@ require 'minitest/rg'
 require_relative 'raindrops'
 
 class RaindropsTest < Minitest::Test
-  def test_1
-    skip
+  def test_return_the_number
     assert_equal '1', Raindrops.convert(1)
+    assert_equal '2', Raindrops.convert(2)
   end
 
-  # Add tests here!
+  def test_3_returns_pling
+    assert_equal 'Pling', Raindrops.convert(3)
+  end
+
+  def test_5_returns_plang
+    assert_equal 'Plang', Raindrops.convert(5)
+  end
+
+  def test_7_returns_plong
+    assert_equal 'Plong', Raindrops.convert(7)
+  end
+
+  def test_longer_number_that_should_return_pling_plang
+    assert_equal 'PlingPlang', Raindrops.convert(15)
+    assert_equal 'PlingPlang', Raindrops.convert(1755)
+  end
 end
