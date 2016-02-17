@@ -5,7 +5,7 @@ This slidedeck designed for use with Deckset: http://www.decksetapp.com/
 
 # Intro to Testing
 
-### Hashrocket TDD/Pairing Programming Workshop
+### Hashrocket TDD/Pair Programming Workshop
 
 ^
 Team intro, class intro, Hashrocket intro, and agenda for the day

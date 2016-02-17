@@ -4,7 +4,7 @@ This slidedeck designed for use with Deckset: http://www.decksetapp.com/
 
 # Intro to TDD
 
-### Hashrocket TDD/Pairing Programming Workshop
+### Hashrocket TDD/Pair Programming Workshop
 
 ---
 
