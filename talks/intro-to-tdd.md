@@ -4,11 +4,7 @@ This slidedeck designed for use with Deckset: http://www.decksetapp.com/
 
 # Intro to TDD
 
-### Hashrocket TDD/Pairing Workshop
-
----
-
-> 'TDD is dead. Long live testing.' —DHH
+### Hashrocket TDD/Pairing Programming Workshop
 
 ---
 
@@ -16,15 +12,30 @@ This slidedeck designed for use with Deckset: http://www.decksetapp.com/
 
 ---
 
+# Write test; then write code.
+
+---
+
 # Coined by Kent Beck (early 2000's)
 
 ---
 
-# Counter-intuitive
+# Counterintuitive
 
 ---
 
 # Cutting Edge & Controversial
+
+^ By no means a standard practice
+
+---
+
+> 'TDD is dead. Long live testing.'
+--DHH (RailsConf 2014)
+
+---
+
+# Benefits
 
 ---
 
@@ -37,28 +48,38 @@ This slidedeck designed for use with Deckset: http://www.decksetapp.com/
 
 ---
 
-# Workflow ('Red Green Refactor')
-
-- Write test ('good red')
-- Write naive implementation ('green')
-
-```ruby
-def all_good?
-  true
-end
-```
-
-- Add test cases ('good red')
+# Workflow
 
 ---
 
 # Workflow ('Red Green Refactor')
 
-- Make test pass ('green')
-- Test edge cases
-- Refactor tested code ('green', 'refactor')
-- Run all tests, fix failures
-- Commit!
+- Write 'happy path' test (good *red*)
+- Write naive implementation to *green*
+
+```ruby
+def users_count(users)
+  3
+end
+```
+
+- Add test cases (*red*)
+
+---
+
+# Workflow ('Red Green Refactor')
+
+- Make tests *green*
+
+```ruby
+def users_count(users)
+  users.count
+end
+```
+
+- Test edge cases to *green*
+- *Refactor* tested code
+- Run all tests, fix failures, commit!
 
 ---
 

@@ -1,10 +1,20 @@
+autoscale: true
 <!---
 This slidedeck designed for use with Deckset: http://www.decksetapp.com/
 -->
 
 # Intro to Testing
 
-### Hashrocket TDD/Pairing Workshop
+### Hashrocket TDD/Pairing Programming Workshop
+
+^
+Team intro, class intro, Hashrocket intro, and agenda for the day
+
+---
+
+- Vim Chicago
+- Hashrocket Event Horizon
+- Ancient City Ruby (6-8 April)
 
 ---
 
@@ -12,20 +22,46 @@ This slidedeck designed for use with Deckset: http://www.decksetapp.com/
 
 ---
 
+> test: n.
+> 1. Real users bashing on a prototype long enough to get thoroughly acquainted
+>    with it, with careful monitoring and followup of the results. 
+--The Jargon File (ca. 1975)
+
+---
+
 # Kinds of Tests
 
-- Unit (automated)
-- Integration (automated)
-- Performance (automated)
-- Acceptance (manual)
+---
+
+# Kinds of Tests
+
+- Unit
+- Integration
+- Validation & Verification
+- Performance
+- Usability
+- Regression
+
+---
+
+# Pros & Cons
 
 ---
 
 # Pros
 
-- More resilient app
+- More resilient application
 - Protection from regressions
 - Documents behavior
+
+> Test your software, or your users will.
+--The Pragmatic Programmer
+
+---
+
+# Cost of Bugs
+
+![inline](cost_of_bugs.jpg)
 
 ---
 
@@ -38,9 +74,14 @@ This slidedeck designed for use with Deckset: http://www.decksetapp.com/
 
 # Popular Frameworks
 
+---
+
+# Popular Frameworks
+
 - RSpec
 - Cucumber
 - MiniTest
+- Capybara
 
 ---
 
