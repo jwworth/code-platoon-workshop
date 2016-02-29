@@ -64,6 +64,10 @@ $ mrspec .
 * 3:10—4:30 PM: 'Grade School' Exercise (w/ pair programming)
 * 4:30—5:00 PM: Discussion and Q & A
 
+Afternoon code exercises utilize the [Code
+Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat)
+structure.
+
 ### Resources
 
 Some of the exercises here are borrowed from [Exercism.io](http://exercism.io/). It's
